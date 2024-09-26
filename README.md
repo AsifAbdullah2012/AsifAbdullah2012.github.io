@@ -10,10 +10,11 @@
 
 ## **Research Interests**  
 - Machine Learning  
-- Deep Learning  
+- Deep Learning
+- Generative AI, LLM
 - Distributed Systems  
 - Self-Adaptive Systems  
-- Product Line Engineering  
+- Software Product Line Engineering  
 
 ---
 
